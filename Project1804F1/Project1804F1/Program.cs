@@ -13,6 +13,7 @@ namespace Project1804F1
             Console.Write("Hello world : ");
             Console.Write("This is my first program of C#");
             Console.Write("Life is Good : ");
+            Console.Write("Life is Good : Idrees Younus");
         }
     }
 }
